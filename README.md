@@ -1,4 +1,4 @@
-# MassTransit with RabbitMQ and .NET 6 sample Product Order application
+# MassTransit with RabbitMQ and .NET 6 sample - Product Order app
 
 Get sample app up and running:
 1) docker run -p 15672:15672 -p 5672:5672 masstransit/rabbitmq
