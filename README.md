@@ -6,4 +6,5 @@ Get sample app up and running:
 2) Set multiple startup projects in Visual Studio:
 Notifications, Order, ProductSales.WebApi and PS.BackOffice.WebApi
 
-![20220828_144235](https://user-images.githubusercontent.com/75571325/187074695-f26569ce-c62b-426d-8231-074b021e0e20.jpg)
+![20220828_144235](https://user-images.githubusercontent.com/75571325/187074737-e0f47b26-f4ae-4fef-88c8-89b14aaaef27.jpg)
+
